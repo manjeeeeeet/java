@@ -1,4 +1,3 @@
-package basic_syntax;
 import java.util.Scanner;
 
 public class HypotAndArea {
