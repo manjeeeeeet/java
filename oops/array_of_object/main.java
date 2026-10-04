@@ -1,6 +1,6 @@
 package oops.array_of_object;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         Car[] cars = {
             new Car("hundai", "i20", 2025),

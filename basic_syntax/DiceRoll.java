@@ -32,7 +32,6 @@ public class DiceRoll {
         }
 
         scanner.close();
-
     }
 
     static void printDie(int roll) {

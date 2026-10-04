@@ -13,5 +13,7 @@ public class CountDown {
             Thread.sleep(1000);
         }
         System.out.println("heyy pookie ><");
+
+        scanner.close();
     }
 }
